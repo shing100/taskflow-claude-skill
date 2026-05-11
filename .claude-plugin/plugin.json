@@ -1,0 +1,25 @@
+{
+  "name": "taskflow",
+  "version": "0.1.0",
+  "description": "Load TaskFlow project context (wiki + board) and CRUD tasks for any LLM coding session. Bridges Claude Code with TaskFlow (https://taskflow.promstack.com).",
+  "author": {
+    "name": "shing100",
+    "url": "https://github.com/shing100"
+  },
+  "homepage": "https://github.com/shing100/taskflow-claude-skill",
+  "repository": "https://github.com/shing100/taskflow-claude-skill",
+  "license": "MIT",
+  "keywords": [
+    "taskflow",
+    "promstack",
+    "mcp",
+    "wiki",
+    "board",
+    "tasks",
+    "project-context",
+    "korean"
+  ],
+  "skills": [
+    "./skills/taskflow"
+  ]
+}
